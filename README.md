@@ -71,6 +71,7 @@ To test a function against every compiler version:
 
 ## Contributing
 
+- [CONTRIBUTING.md](CONTRIBUTING.md): contribution rules, including the clean-room rule (no leaked material)
 - [docs/decompiling.md](docs/decompiling.md): how to decompile a function
 - [CLAUDE.md](CLAUDE.md): workflow and rules for AI agents (`tools/decomp.py`)
 - AI agents: [`/decomp-unit`](.claude/skills/decomp-unit/SKILL.md) runs up to 8 Haiku
