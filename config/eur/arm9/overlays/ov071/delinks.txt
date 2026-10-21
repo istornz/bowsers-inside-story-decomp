@@ -1,0 +1,46 @@
+    .text       start:0x020c8fe0 end:0x020cb8b4 kind:code align:32
+    .rodata     start:0x020cb8b4 end:0x020cb8c8 kind:rodata align:4
+    .init       start:0x020cb8c8 end:0x020cb93c kind:code align:4
+    .ctor       start:0x020cb93c end:0x020cb940 kind:rodata align:4
+    .data       start:0x020cb960 end:0x020cba00 kind:data align:32
+    .bss        start:0x020cba00 end:0x020cbb40 kind:bss align:32
+
+src/ov071/func_ov071_020ca438.cpp:
+    complete
+    .text       start:0x020ca438 end:0x020ca444
+
+src/ov071/func_ov071_020c93f8.cpp:
+    complete
+    .text       start:0x020c93f8 end:0x020c940c
+
+src/ov071/func_ov071_020cb898.cpp:
+    complete
+    .text       start:0x020cb898 end:0x020cb8b4
+
+src/ov071/func_ov071_020ca610.cpp:
+    complete
+    .text       start:0x020ca610 end:0x020ca644
+
+src/ov071/func_ov071_020ca2d4.cpp:
+    complete
+    .text       start:0x020ca2d4 end:0x020ca2f4
+
+src/ov071/func_ov071_020ca8ac.cpp:
+    complete
+    .text       start:0x020ca8ac end:0x020ca8cc
+
+src/ov071/func_ov071_020ca978.cpp:
+    complete
+    .text       start:0x020ca978 end:0x020ca9ac
+
+src/ov071/func_ov071_020c997c.cpp:
+    complete
+    .text       start:0x020c997c end:0x020c9990
+
+src/ov071/func_ov071_020ca4dc.cpp:
+    complete
+    .text       start:0x020ca4dc end:0x020ca4fc
+
+src/ov071/func_ov071_020ca538.cpp:
+    complete
+    .text       start:0x020ca538 end:0x020ca54c

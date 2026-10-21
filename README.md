@@ -25,6 +25,10 @@ The game is delinked and linked back into byte-identical modules (ARM9 main, ITC
 | Version | Game code | SHA-1 | Status |
 | ------- | --------- | ----- | ------ |
 | USA     | `CLJE`    | `099b07d55c43601c4866d475032ab9431356cc5d` | All modules rebuild, 30 / 12,221 functions decompiled, 20 / 141 overlays complete |
+| EUR     | `CLJP`    | `5f35bfbf79a0947740795dd770d99e8eea3ac85e` | All modules rebuild, every `complete` USA file also matches |
+
+USA is the reference version: functions are decompiled against it, then ported to EUR with `tools/port_version.py`
+(see [Other versions](#other-versions)).
 
 ## Requirements
 
@@ -54,6 +58,22 @@ A Docker image is provided so the project also builds on macOS, including Apple 
 The default `ninja` target delinks the game, links it back, verifies every module byte for byte (`check`), rebuilds the ROM
 and generates `objdiff.json`. When `arm7_bios.bin` is present, it also checks the SHA-1 of the whole ROM (`sha1`): without the BIOS,
 the secure area CRC in the header can't be computed, so the rebuilt ROM differs from the original by 4 header bytes only.
+
+### Other versions
+
+To build EUR, put its ROM in `extract/` and run `./dev.sh python tools/bootstrap.py`, then:
+
+```shell
+./dev.sh python tools/port_version.py eur   # copy the USA delinks entries and symbol names to config/eur/
+./dev.sh python tools/configure.py eur
+./dev.sh ninja
+```
+
+`port_version.py` pairs the symbols of each module in both versions (same kinds in the same order) and renames the EUR
+symbols to their USA names, so the same source file links in both versions. Version-specific symbols keep their own name
+(with an `_eur` suffix when the USA name is already taken). Rerun it after decompiling new functions. The EUR `delinks.txt`
+file entries are generated: never edit them by hand. `build.ninja` is generated for one version at a time: rerun
+`configure.py usa` to go back to USA.
 
 Other useful targets: `ninja report` (progress report for decomp.dev), `ninja dis` (disassembly in `build/usa/asm/`),
 `ninja apply` (copy symbol names from the built ELF back to `config/`).

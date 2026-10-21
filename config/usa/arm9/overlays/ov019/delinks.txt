@@ -2,3 +2,79 @@
     .ctor       start:0x020cd3fc end:0x020cd3fc kind:rodata align:4
     .data       start:0x020cd400 end:0x020cd520 kind:data align:32
     .bss        start:0x020cd520 end:0x020cd540 kind:bss align:32
+
+src/ov019/func_ov019_020c9d40.cpp:
+    complete
+    .text       start:0x020c9d40 end:0x020c9d44
+
+src/ov019/func_ov019_020c9e04.cpp:
+    complete
+    .text       start:0x020c9e04 end:0x020c9e08
+
+src/ov019/func_ov019_020cd360.cpp:
+    complete
+    .text       start:0x020cd360 end:0x020cd364
+
+src/ov019/func_ov019_020cd364.cpp:
+    complete
+    .text       start:0x020cd364 end:0x020cd368
+
+src/ov019/func_ov019_020cd368.cpp:
+    complete
+    .text       start:0x020cd368 end:0x020cd36c
+
+src/ov019/func_ov019_020c9c84.cpp:
+    complete
+    .text       start:0x020c9c84 end:0x020c9c98
+
+src/ov019/func_ov019_020c9d18.cpp:
+    complete
+    .text       start:0x020c9d18 end:0x020c9d2c
+
+src/ov019/func_ov019_020c9d2c.cpp:
+    complete
+    .text       start:0x020c9d2c end:0x020c9d40
+
+src/ov019/func_ov019_020cad0c.cpp:
+    complete
+    .text       start:0x020cad0c end:0x020cad20
+
+src/ov019/func_ov019_020cd36c.cpp:
+    complete
+    .text       start:0x020cd36c end:0x020cd380
+
+src/ov019/func_ov019_020cd380.cpp:
+    complete
+    .text       start:0x020cd380 end:0x020cd39c
+
+src/ov019/func_ov019_020cd39c.cpp:
+    complete
+    .text       start:0x020cd39c end:0x020cd3b0
+
+src/ov019/func_ov019_020cd3b0.cpp:
+    complete
+    .text       start:0x020cd3b0 end:0x020cd3cc
+
+src/ov019/func_ov019_020cd3cc.cpp:
+    complete
+    .text       start:0x020cd3cc end:0x020cd3e0
+
+src/ov019/func_ov019_020cd3e0.cpp:
+    complete
+    .text       start:0x020cd3e0 end:0x020cd3fc
+
+src/ov019/func_ov019_020cbc6c.cpp:
+    complete
+    .text       start:0x020cbc6c end:0x020cbc94
+
+src/ov019/func_ov019_020cbeb4.cpp:
+    complete
+    .text       start:0x020cbeb4 end:0x020cbedc
+
+src/ov019/func_ov019_020ccf68.cpp:
+    complete
+    .text       start:0x020ccf68 end:0x020ccfc0
+
+src/ov019/func_ov019_020ccda8.cpp:
+    complete
+    .text       start:0x020ccda8 end:0x020ccdb8

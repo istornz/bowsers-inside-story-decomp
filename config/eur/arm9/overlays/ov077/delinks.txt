@@ -1,0 +1,36 @@
+    .text       start:0x020c8fe0 end:0x020c96a4 kind:code align:32
+    .init       start:0x020c96a4 end:0x020c9704 kind:code align:4
+    .ctor       start:0x020c9704 end:0x020c9708 kind:rodata align:4
+    .bss        start:0x020c9720 end:0x020c97a0 kind:bss align:32
+
+src/ov077/func_ov077_020c8fe0.cpp:
+    complete
+    .text       start:0x020c8fe0 end:0x020c8fe4
+
+src/ov077/func_ov077_020c91cc.cpp:
+    complete
+    .text       start:0x020c91cc end:0x020c9220
+
+src/ov077/func_ov077_020c93e4.cpp:
+    complete
+    .text       start:0x020c93e4 end:0x020c9404
+
+src/ov077/func_ov077_020c9288.cpp:
+    complete
+    .text       start:0x020c9288 end:0x020c92bc
+
+src/ov077/func_ov077_020c95a8.cpp:
+    complete
+    .text       start:0x020c95a8 end:0x020c95c4
+
+src/ov077/func_ov077_020c9688.cpp:
+    complete
+    .text       start:0x020c9688 end:0x020c96a4
+
+src/ov077/func_ov077_020c9220.cpp:
+    complete
+    .text       start:0x020c9220 end:0x020c9234
+
+src/ov077/func_ov077_020c9404.cpp:
+    complete
+    .text       start:0x020c9404 end:0x020c9418

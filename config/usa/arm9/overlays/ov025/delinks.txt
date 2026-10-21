@@ -4,3 +4,35 @@
     .ctor       start:0x020d12d0 end:0x020d12d8 kind:rodata align:4
     .data       start:0x020d12e0 end:0x020d1760 kind:data align:32
     .bss        start:0x020d1760 end:0x020d17c0 kind:bss align:32
+
+src/ov025/func_ov025_020ceb60.cpp:
+    complete
+    .text       start:0x020ceb60 end:0x020ceb74
+
+src/ov025/func_ov025_020ceb74.cpp:
+    complete
+    .text       start:0x020ceb74 end:0x020ceb90
+
+src/ov025/func_ov025_020cc074.cpp:
+    complete
+    .text       start:0x020cc074 end:0x020cc094
+
+src/ov025/func_ov025_020cc404.cpp:
+    complete
+    .text       start:0x020cc404 end:0x020cc424
+
+src/ov025/func_ov025_020cc80c.cpp:
+    complete
+    .text       start:0x020cc80c end:0x020cc82c
+
+src/ov025/func_ov025_020cc70c.cpp:
+    complete
+    .text       start:0x020cc70c end:0x020cc770
+
+src/ov025/func_ov025_020ce304.cpp:
+    complete
+    .text       start:0x020ce304 end:0x020ce368
+
+src/ov025/func_ov025_020ce4ec.cpp:
+    complete
+    .text       start:0x020ce4ec end:0x020ce550

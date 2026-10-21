@@ -1,0 +1,45 @@
+    .text       start:0x0206db20 end:0x020731a8 kind:code align:32
+    .rodata     start:0x020731a8 end:0x020733e4 kind:rodata align:4
+    .ctor       start:0x020733e4 end:0x020733e4 kind:rodata align:4
+    .data       start:0x02073400 end:0x02073680 kind:data align:32
+    .bss        start:0x02073680 end:0x020736a0 kind:bss align:32
+
+src/ov128/func_ov128_0206db20.cpp:
+    complete
+    .text       start:0x0206db20 end:0x0206db24
+
+src/ov128/func_ov128_0206db24.cpp:
+    complete
+    .text       start:0x0206db24 end:0x0206db28
+
+src/ov128/func_ov128_02072ee8.cpp:
+    complete
+    .text       start:0x02072ee8 end:0x02072eec
+
+src/ov128/func_ov128_0206e9e0.cpp:
+    complete
+    .text       start:0x0206e9e0 end:0x0206e9f4
+
+src/ov128/func_ov128_0206e9f4.cpp:
+    complete
+    .text       start:0x0206e9f4 end:0x0206ea10
+
+src/ov128/func_ov128_0206e9c0.cpp:
+    complete
+    .text       start:0x0206e9c0 end:0x0206e9e0
+
+src/ov128/func_ov128_0206ea10.cpp:
+    complete
+    .text       start:0x0206ea10 end:0x0206ea20
+
+src/ov128/func_ov128_02072ed0.cpp:
+    complete
+    .text       start:0x02072ed0 end:0x02072edc
+
+src/ov128/func_ov128_02072edc.cpp:
+    complete
+    .text       start:0x02072edc end:0x02072ee8
+
+src/ov128/func_ov128_0207311c.cpp:
+    complete
+    .text       start:0x0207311c end:0x0207312c

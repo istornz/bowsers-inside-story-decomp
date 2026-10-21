@@ -8,3 +8,79 @@
 src/ov118/func_ov118_020ebda8.cpp:
     complete
     .text       start:0x020ebda8 end:0x020ebe08
+
+src/ov118/func_ov118_020e63fc.cpp:
+    complete
+    .text       start:0x020e63fc end:0x020e6400
+
+src/ov118/func_ov118_020eb738.cpp:
+    complete
+    .text       start:0x020eb738 end:0x020eb744
+
+src/ov118/func_ov118_020eb144.cpp:
+    complete
+    .text       start:0x020eb144 end:0x020eb158
+
+src/ov118/func_ov118_020ef4dc.cpp:
+    complete
+    .text       start:0x020ef4dc end:0x020ef4f4
+
+src/ov118/func_ov118_020ef9bc.cpp:
+    complete
+    .text       start:0x020ef9bc end:0x020ef9d0
+
+src/ov118/func_ov118_020f121c.cpp:
+    complete
+    .text       start:0x020f121c end:0x020f1234
+
+src/ov118/func_ov118_020f17d0.cpp:
+    complete
+    .text       start:0x020f17d0 end:0x020f17e8
+
+src/ov118/func_ov118_020eddc8.cpp:
+    complete
+    .text       start:0x020eddc8 end:0x020eddd8
+
+src/ov118/func_ov118_020ef21c.cpp:
+    complete
+    .text       start:0x020ef21c end:0x020ef22c
+
+src/ov118/func_ov118_020f1210.cpp:
+    complete
+    .text       start:0x020f1210 end:0x020f121c
+
+src/ov118/func_ov118_020f1538.cpp:
+    complete
+    .text       start:0x020f1538 end:0x020f1544
+
+src/ov118/func_ov118_020f3fb4.cpp:
+    complete
+    .text       start:0x020f3fb4 end:0x020f3fc8
+
+src/ov118/func_ov118_020ec8b8.cpp:
+    complete
+    .text       start:0x020ec8b8 end:0x020ec904
+
+src/ov118/func_ov118_020ed768.cpp:
+    complete
+    .text       start:0x020ed768 end:0x020ed7cc
+
+src/ov118/func_ov118_020f4354.cpp:
+    complete
+    .text       start:0x020f4354 end:0x020f43b8
+
+src/ov118/func_ov118_020f3e20.cpp:
+    complete
+    .text       start:0x020f3e20 end:0x020f3e4c
+
+src/ov118/func_ov118_020f3e4c.cpp:
+    complete
+    .text       start:0x020f3e4c end:0x020f3e8c
+
+src/ov118/func_ov118_020f4730.cpp:
+    complete
+    .text       start:0x020f4730 end:0x020f4770
+
+src/ov118/func_ov118_020e2d08.cpp:
+    complete
+    .text       start:0x020e2d08 end:0x020e2d30

@@ -1,0 +1,40 @@
+    .text       start:0x02063b00 end:0x020647b0 kind:code align:32
+    .rodata     start:0x020647b0 end:0x020647b8 kind:rodata align:4
+    .ctor       start:0x020647b8 end:0x020647b8 kind:rodata align:4
+    .bss        start:0x020647c0 end:0x020647c0 kind:bss align:32
+
+src/ov138/func_ov138_020646f4.cpp:
+    complete
+    .text       start:0x020646f4 end:0x02064700
+
+src/ov138/func_ov138_02064634.cpp:
+    complete
+    .text       start:0x02064634 end:0x02064658
+
+src/ov138/func_ov138_020645e8.cpp:
+    complete
+    .text       start:0x020645e8 end:0x02064634
+
+src/ov138/func_ov138_02064700.cpp:
+    complete
+    .text       start:0x02064700 end:0x02064758
+
+src/ov138/func_ov138_02064758.cpp:
+    complete
+    .text       start:0x02064758 end:0x020647b0
+
+src/ov138/func_ov138_02064574.cpp:
+    complete
+    .text       start:0x02064574 end:0x020645e8
+
+src/ov138/func_ov138_02064658.cpp:
+    complete
+    .text       start:0x02064658 end:0x020646f4
+
+src/ov138/func_ov138_02063b00.cpp:
+    complete
+    .text       start:0x02063b00 end:0x02063bc8
+
+src/ov138/func_ov138_02063bc8.cpp:
+    complete
+    .text       start:0x02063bc8 end:0x02063cac

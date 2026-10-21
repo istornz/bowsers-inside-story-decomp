@@ -1,0 +1,23 @@
+func_ov077_020c8fe0 kind:function(arm,size=0x4) addr:0x020c8fe0
+func_ov077_020c8fe4 kind:function(arm,size=0x124) addr:0x020c8fe4
+func_ov077_020c9108 kind:function(arm,size=0xc4) addr:0x020c9108
+func_ov077_020c91cc kind:function(arm,size=0x54) addr:0x020c91cc
+func_ov077_020c9220 kind:function(arm,size=0x14) addr:0x020c9220
+func_ov077_020c9234 kind:function(arm,size=0x54) addr:0x020c9234
+func_ov077_020c9288 kind:function(arm,size=0x34) addr:0x020c9288
+func_ov077_020c92bc kind:function(arm,size=0x128) addr:0x020c92bc
+func_ov077_020c93e4 kind:function(arm,size=0x20) addr:0x020c93e4
+func_ov077_020c9404 kind:function(arm,size=0x14) addr:0x020c9404
+func_ov077_020c9418 kind:function(arm,size=0x190) addr:0x020c9418
+func_ov077_020c95a8 kind:function(arm,size=0x1c) addr:0x020c95a8
+func_ov077_020c95c4 kind:function(arm,size=0xc4) addr:0x020c95c4
+func_ov077_020c9688 kind:function(arm,size=0x1c) addr:0x020c9688
+__sinit_ov077_020c96a4 kind:function(arm,size=0x60) addr:0x020c96a4
+.p__sinit_ov077_020c96a4 kind:data(word) addr:0x020c9704
+data_ov077_020c9720 kind:bss addr:0x020c9720
+data_ov077_020c9728 kind:bss addr:0x020c9728
+data_ov077_020c9734 kind:bss addr:0x020c9734
+data_ov077_020c9740 kind:bss addr:0x020c9740
+data_ov077_020c974c kind:bss addr:0x020c974c
+data_ov077_020c9760 kind:bss addr:0x020c9760 ambiguous
+data_ov077_020c978c kind:bss addr:0x020c978c

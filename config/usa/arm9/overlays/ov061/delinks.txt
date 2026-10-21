@@ -4,3 +4,39 @@
     .ctor       start:0x020ccd8c end:0x020ccd90 kind:rodata align:4
     .data       start:0x020ccda0 end:0x020cce00 kind:data align:32
     .bss        start:0x020cce00 end:0x020cd020 kind:bss align:32
+
+src/ov061/func_ov061_020ca754.cpp:
+    complete
+    .text       start:0x020ca754 end:0x020ca758
+
+src/ov061/func_ov061_020c9860.cpp:
+    complete
+    .text       start:0x020c9860 end:0x020c9874
+
+src/ov061/func_ov061_020c9788.cpp:
+    complete
+    .text       start:0x020c9788 end:0x020c97b4
+
+src/ov061/func_ov061_020c97b4.cpp:
+    complete
+    .text       start:0x020c97b4 end:0x020c97e0
+
+src/ov061/func_ov061_020c9a20.cpp:
+    complete
+    .text       start:0x020c9a20 end:0x020c9a68
+
+src/ov061/func_ov061_020c9760.cpp:
+    complete
+    .text       start:0x020c9760 end:0x020c9788
+
+src/ov061/func_ov061_020c9808.cpp:
+    complete
+    .text       start:0x020c9808 end:0x020c9834
+
+src/ov061/func_ov061_020c9834.cpp:
+    complete
+    .text       start:0x020c9834 end:0x020c9860
+
+src/ov061/func_ov061_020ca544.cpp:
+    complete
+    .text       start:0x020ca544 end:0x020ca594

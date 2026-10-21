@@ -1,0 +1,25 @@
+    .text       start:0x020c9760 end:0x020cac2c kind:code align:32
+    .init       start:0x020cac2c end:0x020cad64 kind:code align:4
+    .ctor       start:0x020cad64 end:0x020cad68 kind:rodata align:4
+    .data       start:0x020cad80 end:0x020cada0 kind:data align:32
+    .bss        start:0x020cada0 end:0x020cae80 kind:bss align:32
+
+src/ov062/func_ov062_020c97f4.cpp:
+    complete
+    .text       start:0x020c97f4 end:0x020c97f8
+
+src/ov062/func_ov062_020c97e0.cpp:
+    complete
+    .text       start:0x020c97e0 end:0x020c97f4
+
+src/ov062/func_ov062_020c9788.cpp:
+    complete
+    .text       start:0x020c9788 end:0x020c97b4
+
+src/ov062/func_ov062_020c97b4.cpp:
+    complete
+    .text       start:0x020c97b4 end:0x020c97e0
+
+src/ov062/func_ov062_020c9760.cpp:
+    complete
+    .text       start:0x020c9760 end:0x020c9788

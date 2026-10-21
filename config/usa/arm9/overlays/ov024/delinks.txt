@@ -3,3 +3,27 @@
     .ctor       start:0x020d4010 end:0x020d4010 kind:rodata align:4
     .data       start:0x020d4020 end:0x020d43e0 kind:data align:32
     .bss        start:0x020d43e0 end:0x020d4400 kind:bss align:32
+
+src/ov024/func_ov024_020d17c8.cpp:
+    complete
+    .text       start:0x020d17c8 end:0x020d17cc
+
+src/ov024/func_ov024_020cf878.cpp:
+    complete
+    .text       start:0x020cf878 end:0x020cf8ac
+
+src/ov024/func_ov024_020d1b2c.cpp:
+    complete
+    .text       start:0x020d1b2c end:0x020d1b60
+
+src/ov024/func_ov024_020d0768.cpp:
+    complete
+    .text       start:0x020d0768 end:0x020d0774
+
+src/ov024/func_ov024_020d2fcc.cpp:
+    complete
+    .text       start:0x020d2fcc end:0x020d2fd8
+
+src/ov024/func_ov024_020d18f8.cpp:
+    complete
+    .text       start:0x020d18f8 end:0x020d1918

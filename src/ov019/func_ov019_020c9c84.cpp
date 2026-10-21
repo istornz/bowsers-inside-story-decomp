@@ -1,0 +1,8 @@
+#include "types.h"
+
+extern "C" void func_ov014_020951f0(void* p);
+
+extern "C" void* func_ov019_020c9c84(void* p) {
+    func_ov014_020951f0(p);
+    return p;
+}

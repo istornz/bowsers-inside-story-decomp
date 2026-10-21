@@ -1,0 +1,10 @@
+#include "types.h"
+
+struct Unk_ov124_020836a0 {
+    /* 0x00 */ u8 unk00[0x18];
+    /* 0x18 */ u32 unk18;
+};
+
+extern "C" u32 func_ov124_020836a0(Unk_ov124_020836a0* self) {
+    return self->unk18;
+}

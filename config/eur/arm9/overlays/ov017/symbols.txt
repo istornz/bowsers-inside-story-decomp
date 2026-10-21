@@ -1,0 +1,7 @@
+data_ov017_020b8960 kind:data(any) addr:0x020b8960
+data_ov017_020b8978 kind:data(any) addr:0x020b8978
+data_ov017_020b8d68 kind:data(any) addr:0x020b8d68
+data_ov017_020b9864 kind:data(any) addr:0x020b9864
+data_ov017_020bbf30 kind:data(any) addr:0x020bbf30
+data_ov017_020c0000 kind:data(any) addr:0x020c0000
+data_ov017_020c00ec kind:data(any) addr:0x020c00ec

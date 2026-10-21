@@ -25,6 +25,9 @@ Matching decompilation of Mario & Luigi: Bowser's Inside Story (Nintendo DS, USA
 2. `new` it, write the C++, `diff`, iterate until `100.00%  MATCH`.
 3. `complete` the file. It verifies every function, marks the file `complete` and rebuilds the whole game: if any module stops
    matching, it reverts. Several files can be completed with a single build: `complete a.cpp b.cpp ...`.
+4. If the EUR ROM is extracted (`extract/eur/`), port the progress and check that EUR still matches:
+   `./dev.sh sh -c "python tools/port_version.py eur && python tools/configure.py eur && ninja && python tools/configure.py usa"`.
+   A file whose code differs in EUR needs version-specific code (`#ifdef eur`, the compiler gets `-d <version>`).
 
 `new` takes several functions at once (`new func_a func_b`, one file each). `info` and `diff` never run ninja: several agents
 can use them at the same time, each on its own source file. `new`, `complete` and `ninja` change shared state: run them only
@@ -45,8 +48,8 @@ when no other agent is working.
 
 - **Never edit** `tools/configure.py`, compiler flags, `dev.sh`, `Dockerfile`, or anything under `extract/` and `build/`.
 - **Only mark a file `complete` through `tools/decomp.py complete`**, never by hand.
-- Edit `config/` only through `tools/decomp.py`, except to fix symbols as described below. Never delete a delinks entry
-  that is `complete`.
+- Edit `config/` only through `tools/decomp.py` (`config/usa/`) and `tools/port_version.py` (other versions), except to fix
+  symbols as described below. Never delete a delinks entry that is `complete`.
 - If a function can't reach 100% after a reasonable number of attempts, leave its file **not complete** (the original code is
   linked instead, the build stays green) and move on. Keep the best attempt and add a `// TODO: ...` comment explaining
   what differs.
@@ -78,4 +81,5 @@ when no other agent is working.
 
 When `dsd` split one object into several symbols (e.g. `data_X` and `data_X+8` used as fields of one array), merge them in
 the module's `symbols.txt` (`kind:bss(size=0x50)`) and rewrite relocations in every `relocs.txt` as
-`to:0x<base> add:0x<offset>`. Run `./dev.sh ninja` afterwards: it must still succeed.
+`to:0x<base> add:0x<offset>`. Run `./dev.sh ninja` afterwards: it must still succeed. `port_version.py` doesn't port these
+merges: do the same edit in `config/eur/` (the addresses are usually the same).

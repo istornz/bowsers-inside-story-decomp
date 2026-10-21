@@ -1,0 +1,58 @@
+    .text       start:0x020e3520 end:0x020eb94c kind:code align:32
+    .rodata     start:0x020eb94c end:0x020eb9a8 kind:rodata align:4
+    .init       start:0x020eb9a8 end:0x020ebc70 kind:code align:4
+    .ctor       start:0x020ebc70 end:0x020ebc78 kind:rodata align:4
+    .data       start:0x020ebc80 end:0x020ebe80 kind:data align:32
+    .bss        start:0x020ebe80 end:0x020ec860 kind:bss align:32
+
+src/ov121/func_ov121_020e7c54.cpp:
+    complete
+    .text       start:0x020e7c54 end:0x020e7c58
+
+src/ov121/func_ov121_020eb2e4.cpp:
+    complete
+    .text       start:0x020eb2e4 end:0x020eb2e8
+
+src/ov121/func_ov121_020e537c.cpp:
+    complete
+    .text       start:0x020e537c end:0x020e5388
+
+src/ov121/func_ov121_020e6424.cpp:
+    complete
+    .text       start:0x020e6424 end:0x020e6438
+
+src/ov121/func_ov121_020e3728.cpp:
+    complete
+    .text       start:0x020e3728 end:0x020e3738
+
+src/ov121/func_ov121_020e3b5c.cpp:
+    complete
+    .text       start:0x020e3b5c end:0x020e3b68
+
+src/ov121/func_ov121_020e3fe4.cpp:
+    complete
+    .text       start:0x020e3fe4 end:0x020e3ff0
+
+src/ov121/func_ov121_020e68dc.cpp:
+    complete
+    .text       start:0x020e68dc end:0x020e68ec
+
+src/ov121/func_ov121_020e713c.cpp:
+    complete
+    .text       start:0x020e713c end:0x020e7148
+
+src/ov121/func_ov121_020e7890.cpp:
+    complete
+    .text       start:0x020e7890 end:0x020e789c
+
+src/ov121/func_ov121_020eb640.cpp:
+    complete
+    .text       start:0x020eb640 end:0x020eb650
+
+src/ov121/func_ov121_020e649c.cpp:
+    complete
+    .text       start:0x020e649c end:0x020e64dc
+
+src/ov121/func_ov121_020e64dc.cpp:
+    complete
+    .text       start:0x020e64dc end:0x020e6524

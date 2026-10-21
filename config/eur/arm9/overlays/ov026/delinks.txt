@@ -1,0 +1,13 @@
+    .text       start:0x020cb440 end:0x020cdbb8 kind:code align:32
+    .rodata     start:0x020cdbb8 end:0x020cdbf4 kind:rodata align:4
+    .ctor       start:0x020cdbf4 end:0x020cdbf4 kind:rodata align:4
+    .data       start:0x020cdc00 end:0x020cdce0 kind:data align:32
+    .bss        start:0x020cdce0 end:0x020cdce0 kind:bss align:32
+
+src/ov026/func_ov026_020cb440.cpp:
+    complete
+    .text       start:0x020cb440 end:0x020cb454
+
+src/ov026/func_ov026_020cb454.cpp:
+    complete
+    .text       start:0x020cb454 end:0x020cb468

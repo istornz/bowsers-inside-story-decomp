@@ -1,0 +1,7 @@
+    .text       start:0x020cb440 end:0x020cb44c kind:code align:32
+    .ctor       start:0x020cb44c end:0x020cb44c kind:rodata align:4
+    .bss        start:0x020cb460 end:0x020cb460 kind:bss align:32
+
+src/ov053/func_ov053_020cb440.cpp:
+    complete
+    .text       start:0x020cb440 end:0x020cb44c

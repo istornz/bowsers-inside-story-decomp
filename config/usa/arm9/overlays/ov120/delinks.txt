@@ -3,3 +3,99 @@
     .ctor       start:0x020db490 end:0x020db490 kind:rodata align:4
     .data       start:0x020db4a0 end:0x020db980 kind:data align:32
     .bss        start:0x020db980 end:0x020dba00 kind:bss align:32
+
+src/ov120/func_ov120_020d43c4.cpp:
+    complete
+    .text       start:0x020d43c4 end:0x020d43c8
+
+src/ov120/func_ov120_020d43c8.cpp:
+    complete
+    .text       start:0x020d43c8 end:0x020d43cc
+
+src/ov120/func_ov120_020d43cc.cpp:
+    complete
+    .text       start:0x020d43cc end:0x020d43d0
+
+src/ov120/func_ov120_020d43d0.cpp:
+    complete
+    .text       start:0x020d43d0 end:0x020d43d4
+
+src/ov120/func_ov120_020d43d4.cpp:
+    complete
+    .text       start:0x020d43d4 end:0x020d43d8
+
+src/ov120/func_ov120_020d7258.cpp:
+    complete
+    .text       start:0x020d7258 end:0x020d725c
+
+src/ov120/func_ov120_020d9c78.cpp:
+    complete
+    .text       start:0x020d9c78 end:0x020d9c7c
+
+src/ov120/func_ov120_020d4374.cpp:
+    complete
+    .text       start:0x020d4374 end:0x020d4388
+
+src/ov120/func_ov120_020d4388.cpp:
+    complete
+    .text       start:0x020d4388 end:0x020d439c
+
+src/ov120/func_ov120_020d439c.cpp:
+    complete
+    .text       start:0x020d439c end:0x020d43b0
+
+src/ov120/func_ov120_020d43b0.cpp:
+    complete
+    .text       start:0x020d43b0 end:0x020d43c4
+
+src/ov120/func_ov120_020d8484.cpp:
+    complete
+    .text       start:0x020d8484 end:0x020d84a0
+
+src/ov120/func_ov120_020d84a0.cpp:
+    complete
+    .text       start:0x020d84a0 end:0x020d84bc
+
+src/ov120/func_ov120_020d84bc.cpp:
+    complete
+    .text       start:0x020d84bc end:0x020d84d8
+
+src/ov120/func_ov120_020d84d8.cpp:
+    complete
+    .text       start:0x020d84d8 end:0x020d84f4
+
+src/ov120/func_ov120_020da440.cpp:
+    complete
+    .text       start:0x020da440 end:0x020da448
+
+src/ov120/func_ov120_020d8424.cpp:
+    complete
+    .text       start:0x020d8424 end:0x020d8434
+
+src/ov120/func_ov120_020d831c.cpp:
+    complete
+    .text       start:0x020d831c end:0x020d833c
+
+src/ov120/func_ov120_020d4e5c.cpp:
+    complete
+    .text       start:0x020d4e5c end:0x020d4e7c
+
+src/ov120/func_ov120_020d4e7c.cpp:
+    complete
+    .text       start:0x020d4e7c end:0x020d4e9c
+
+src/ov120/func_ov120_020d4eac.cpp:
+    complete
+    .text       start:0x020d4eac end:0x020d4ecc
+
+src/ov120/func_ov120_020d4ecc.cpp:
+    complete
+    .text       start:0x020d4ecc end:0x020d4eec
+
+src/ov120/func_ov120_020da3a8.cpp:
+    complete
+    .text       start:0x020da3a8 end:0x020da3dc
+
+src/ov120/func_ov120_020d5d7c.cpp:
+    complete
+    .text       start:0x020d5d7c end:0x020d5db4

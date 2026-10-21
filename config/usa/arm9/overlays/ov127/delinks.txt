@@ -3,3 +3,79 @@
     .ctor       start:0x0206c934 end:0x0206c934 kind:rodata align:4
     .data       start:0x0206c940 end:0x0206db20 kind:data align:32
     .bss        start:0x0206db20 end:0x0206db20 kind:bss align:32
+
+src/ov127/func_ov127_0206aff8.cpp:
+    complete
+    .text       start:0x0206aff8 end:0x0206affc
+
+src/ov127/func_ov127_0206b05c.cpp:
+    complete
+    .text       start:0x0206b05c end:0x0206b060
+
+src/ov127/func_ov127_0206b10c.cpp:
+    complete
+    .text       start:0x0206b10c end:0x0206b110
+
+src/ov127/func_ov127_0206b184.cpp:
+    complete
+    .text       start:0x0206b184 end:0x0206b188
+
+src/ov127/func_ov127_0206b19c.cpp:
+    complete
+    .text       start:0x0206b19c end:0x0206b1a0
+
+src/ov127/func_ov127_0206c0c0.cpp:
+    complete
+    .text       start:0x0206c0c0 end:0x0206c0c4
+
+src/ov127/func_ov127_02069d74.cpp:
+    complete
+    .text       start:0x02069d74 end:0x02069d88
+
+src/ov127/func_ov127_02069d88.cpp:
+    complete
+    .text       start:0x02069d88 end:0x02069d9c
+
+src/ov127/func_ov127_02069d9c.cpp:
+    complete
+    .text       start:0x02069d9c end:0x02069db0
+
+src/ov127/func_ov127_0206af34.cpp:
+    complete
+    .text       start:0x0206af34 end:0x0206af4c
+
+src/ov127/func_ov127_0206b188.cpp:
+    complete
+    .text       start:0x0206b188 end:0x0206b19c
+
+src/ov127/func_ov127_0206b1d4.cpp:
+    complete
+    .text       start:0x0206b1d4 end:0x0206b1dc
+
+src/ov127/func_ov127_0206c158.cpp:
+    complete
+    .text       start:0x0206c158 end:0x0206c16c
+
+src/ov127/func_ov127_0206a318.cpp:
+    complete
+    .text       start:0x0206a318 end:0x0206a328
+
+src/ov127/func_ov127_0206b1a0.cpp:
+    complete
+    .text       start:0x0206b1a0 end:0x0206b1ac
+
+src/ov127/func_ov127_0206b638.cpp:
+    complete
+    .text       start:0x0206b638 end:0x0206b644
+
+src/ov127/func_ov127_0206a30c.cpp:
+    complete
+    .text       start:0x0206a30c end:0x0206a318
+
+src/ov127/func_ov127_0206b0e8.cpp:
+    complete
+    .text       start:0x0206b0e8 end:0x0206b10c
+
+src/ov127/func_ov127_0206c8d4.cpp:
+    complete
+    .text       start:0x0206c8d4 end:0x0206c8e0

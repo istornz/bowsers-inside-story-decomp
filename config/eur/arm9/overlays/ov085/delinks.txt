@@ -1,0 +1,108 @@
+    .text       start:0x020c8fe0 end:0x020cb200 kind:code align:32
+    .rodata     start:0x020cb200 end:0x020cb230 kind:rodata align:4
+    .init       start:0x020cb230 end:0x020cb270 kind:code align:4
+    .ctor       start:0x020cb270 end:0x020cb274 kind:rodata align:4
+    .bss        start:0x020cb280 end:0x020cb300 kind:bss align:32
+
+src/ov085/func_ov085_020c8fe0.cpp:
+    complete
+    .text       start:0x020c8fe0 end:0x020c8fe4
+
+src/ov085/func_ov085_020c9820.cpp:
+    complete
+    .text       start:0x020c9820 end:0x020c9830
+
+src/ov085/func_ov085_020c952c.cpp:
+    complete
+    .text       start:0x020c952c end:0x020c9580
+
+src/ov085/func_ov085_020c97b0.cpp:
+    complete
+    .text       start:0x020c97b0 end:0x020c9820
+
+src/ov085/func_ov085_020cb190.cpp:
+    .text       start:0x020cb190 end:0x020cb200
+
+src/ov085/func_ov085_020cad94.cpp:
+    .text       start:0x020cad94 end:0x020cae08
+
+src/ov085/func_ov085_020c9208.cpp:
+    complete
+    .text       start:0x020c9208 end:0x020c9280
+
+src/ov085/func_ov085_020c9280.cpp:
+    complete
+    .text       start:0x020c9280 end:0x020c92f8
+
+src/ov085/func_ov085_020c9a4c.cpp:
+    complete
+    .text       start:0x020c9a4c end:0x020c9acc
+
+src/ov085/func_ov085_020cad10.cpp:
+    complete
+    .text       start:0x020cad10 end:0x020cad94
+
+src/ov085/func_ov085_020c99ac.cpp:
+    complete
+    .text       start:0x020c99ac end:0x020c9a4c
+
+src/ov085/func_ov085_020c948c.cpp:
+    complete
+    .text       start:0x020c948c end:0x020c952c
+
+src/ov085/func_ov085_020c9830.cpp:
+    complete
+    .text       start:0x020c9830 end:0x020c98e0
+
+src/ov085/func_ov085_020cb0dc.cpp:
+    complete
+    .text       start:0x020cb0dc end:0x020cb190
+
+src/ov085/func_ov085_020c98e0.cpp:
+    complete
+    .text       start:0x020c98e0 end:0x020c99ac
+
+src/ov085/func_ov085_020c96b4.cpp:
+    complete
+    .text       start:0x020c96b4 end:0x020c97b0
+
+src/ov085/func_ov085_020c9580.cpp:
+    complete
+    .text       start:0x020c9580 end:0x020c96b4
+
+src/ov085/func_ov085_020caf8c.cpp:
+    complete
+    .text       start:0x020caf8c end:0x020cb0dc
+
+src/ov085/func_ov085_020cae08.cpp:
+    complete
+    .text       start:0x020cae08 end:0x020caf8c
+
+src/ov085/func_ov085_020c92f8.cpp:
+    complete
+    .text       start:0x020c92f8 end:0x020c948c
+
+src/ov085/func_ov085_020c9f3c.cpp:
+    .text       start:0x020c9f3c end:0x020ca0f8
+
+src/ov085/func_ov085_020ca0f8.cpp:
+    complete
+    .text       start:0x020ca0f8 end:0x020ca2c8
+
+src/ov085/func_ov085_020c9acc.cpp:
+    .text       start:0x020c9acc end:0x020c9cd0
+
+src/ov085/func_ov085_020c8fe4.cpp:
+    .text       start:0x020c8fe4 end:0x020c9208
+
+src/ov085/func_ov085_020c9cd0.cpp:
+    .text       start:0x020c9cd0 end:0x020c9f3c
+
+src/ov085/func_ov085_020ca68c.cpp:
+    .text       start:0x020ca68c end:0x020ca9c4
+
+src/ov085/func_ov085_020ca9c4.cpp:
+    .text       start:0x020ca9c4 end:0x020cad10
+
+src/ov085/func_ov085_020ca2c8.cpp:
+    .text       start:0x020ca2c8 end:0x020ca68c

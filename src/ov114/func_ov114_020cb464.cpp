@@ -1,0 +1,11 @@
+#include "types.h"
+
+struct Unk_ov114_020cb464 {
+    /* 0x00 */ s16 unk00;
+};
+
+extern "C" Unk_ov114_020cb464 data_ov114_020d1d2c[];
+
+extern "C" s16 func_ov114_020cb464(s32 index) {
+    return data_ov114_020d1d2c[index].unk00;
+}

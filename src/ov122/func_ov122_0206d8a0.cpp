@@ -1,0 +1,5 @@
+#include "types.h"
+
+extern "C" s32 func_ov122_0206d8a0() {
+    return 0;
+}

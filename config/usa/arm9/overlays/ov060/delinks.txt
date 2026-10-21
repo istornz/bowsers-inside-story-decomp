@@ -4,3 +4,78 @@
     .ctor       start:0x020ce184 end:0x020ce188 kind:rodata align:4
     .data       start:0x020ce1a0 end:0x020ce1e0 kind:data align:32
     .bss        start:0x020ce1e0 end:0x020ce2e0 kind:bss align:32
+
+src/ov060/func_ov060_020cb3dc.cpp:
+    complete
+    .text       start:0x020cb3dc end:0x020cb3e0
+
+src/ov060/func_ov060_020cb950.cpp:
+    complete
+    .text       start:0x020cb950 end:0x020cb984
+
+src/ov060/func_ov060_020ca498.cpp:
+    complete
+    .text       start:0x020ca498 end:0x020ca4ac
+
+src/ov060/func_ov060_020cb39c.cpp:
+    complete
+    .text       start:0x020cb39c end:0x020cb3dc
+
+src/ov060/func_ov060_020cb04c.cpp:
+    complete
+    .text       start:0x020cb04c end:0x020cb0b0
+
+src/ov060/func_ov060_020cb370.cpp:
+    complete
+    .text       start:0x020cb370 end:0x020cb39c
+
+src/ov060/func_ov060_020c9790.cpp:
+    complete
+    .text       start:0x020c9790 end:0x020c97bc
+
+src/ov060/func_ov060_020c97bc.cpp:
+    complete
+    .text       start:0x020c97bc end:0x020c97e8
+
+src/ov060/func_ov060_020ca694.cpp:
+    complete
+    .text       start:0x020ca694 end:0x020ca6dc
+
+src/ov060/func_ov060_020cab0c.cpp:
+    complete
+    .text       start:0x020cab0c end:0x020cab54
+
+src/ov060/func_ov060_020cafe4.cpp:
+    complete
+    .text       start:0x020cafe4 end:0x020cb04c
+
+src/ov060/func_ov060_020cae18.cpp:
+    complete
+    .text       start:0x020cae18 end:0x020cae88
+
+src/ov060/func_ov060_020cb0b0.cpp:
+    .text       start:0x020cb0b0 end:0x020cb124
+
+src/ov060/func_ov060_020cc710.cpp:
+    complete
+    .text       start:0x020cc710 end:0x020cc730
+
+src/ov060/func_ov060_020c9768.cpp:
+    complete
+    .text       start:0x020c9768 end:0x020c9790
+
+src/ov060/func_ov060_020c9810.cpp:
+    complete
+    .text       start:0x020c9810 end:0x020c983c
+
+src/ov060/func_ov060_020cd4e0.cpp:
+    complete
+    .text       start:0x020cd4e0 end:0x020cd51c
+
+src/ov060/func_ov060_020c983c.cpp:
+    complete
+    .text       start:0x020c983c end:0x020c9868
+
+src/ov060/func_ov060_020cd5d8.cpp:
+    complete
+    .text       start:0x020cd5d8 end:0x020cd614

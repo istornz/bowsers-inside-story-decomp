@@ -3,3 +3,15 @@
     .init       start:0x020cb55c end:0x020cb5c0 kind:code align:4
     .ctor       start:0x020cb5c0 end:0x020cb5c4 kind:rodata align:4
     .bss        start:0x020cb5e0 end:0x020cb7c0 kind:bss align:32
+
+src/ov073/func_ov073_020c8fe0.cpp:
+    complete
+    .text       start:0x020c8fe0 end:0x020c8fe4
+
+src/ov073/func_ov073_020c9670.cpp:
+    complete
+    .text       start:0x020c9670 end:0x020c96a4
+
+src/ov073/func_ov073_020c9df0.cpp:
+    complete
+    .text       start:0x020c9df0 end:0x020c9e04

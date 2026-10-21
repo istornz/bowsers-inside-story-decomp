@@ -6,4 +6,4 @@ The version is detected from the ROM header and the file is renamed to `baserom_
 | Version | Game code | File name             | SHA1                       |
 | ------- | --------- | --------------------- | -------------------------- |
 | USA     | `CLJE`    | `baserom_bis_usa.nds` | `099b07d55c43601c4866d475032ab9431356cc5d` |
-| EUR     | `CLJP`    | `baserom_bis_eur.nds` | see `bis_eur.sha1` (to do) |
+| EUR     | `CLJP`    | `baserom_bis_eur.nds` | `5f35bfbf79a0947740795dd770d99e8eea3ac85e` |

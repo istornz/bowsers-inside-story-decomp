@@ -2,3 +2,27 @@
     .init       start:0x020ccf30 end:0x020ccf68 kind:code align:4
     .ctor       start:0x020ccf68 end:0x020ccf6c kind:rodata align:4
     .bss        start:0x020ccf80 end:0x020ccfc0 kind:bss align:32
+
+src/ov102/func_ov102_020cc640.cpp:
+    complete
+    .text       start:0x020cc640 end:0x020cc644
+
+src/ov102/func_ov102_020cc848.cpp:
+    complete
+    .text       start:0x020cc848 end:0x020cc858
+
+src/ov102/func_ov102_020cc814.cpp:
+    complete
+    .text       start:0x020cc814 end:0x020cc848
+
+src/ov102/func_ov102_020cc7bc.cpp:
+    complete
+    .text       start:0x020cc7bc end:0x020cc814
+
+src/ov102/func_ov102_020ccb14.cpp:
+    complete
+    .text       start:0x020ccb14 end:0x020ccb80
+
+src/ov102/func_ov102_020cce04.cpp:
+    complete
+    .text       start:0x020cce04 end:0x020cce8c

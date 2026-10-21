@@ -1,0 +1,33 @@
+    .text       start:0x020cb440 end:0x020d261c kind:code align:32
+    .rodata     start:0x020d261c end:0x020d29e4 kind:rodata align:4
+    .ctor       start:0x020d29e4 end:0x020d29e4 kind:rodata align:4
+    .data       start:0x020d2a00 end:0x020d8b60 kind:data align:32
+    .bss        start:0x020d8b60 end:0x020d8c00 kind:bss align:32
+
+src/ov116/func_ov116_020cb440.cpp:
+    complete
+    .text       start:0x020cb440 end:0x020cb454
+
+src/ov116/func_ov116_020cb4f4.cpp:
+    complete
+    .text       start:0x020cb4f4 end:0x020cb508
+
+src/ov116/func_ov116_020cb454.cpp:
+    complete
+    .text       start:0x020cb454 end:0x020cb464
+
+src/ov116/func_ov116_020cb508.cpp:
+    complete
+    .text       start:0x020cb508 end:0x020cb518
+
+src/ov116/func_ov116_020cb518.cpp:
+    complete
+    .text       start:0x020cb518 end:0x020cb528
+
+src/ov116/func_ov116_020cb4d8.cpp:
+    complete
+    .text       start:0x020cb4d8 end:0x020cb4f4
+
+src/ov116/func_ov116_020cb4c0.cpp:
+    complete
+    .text       start:0x020cb4c0 end:0x020cb4d8

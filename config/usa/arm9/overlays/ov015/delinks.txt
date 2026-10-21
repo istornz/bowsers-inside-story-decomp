@@ -3,3 +3,83 @@
     .ctor       start:0x020acbac end:0x020acbac kind:rodata align:4
     .data       start:0x020acbc0 end:0x020acc80 kind:data align:32
     .bss        start:0x020acc80 end:0x020ace00 kind:bss align:32
+
+src/ov015/func_ov015_020a7b58.cpp:
+    complete
+    .text       start:0x020a7b58 end:0x020a7b5c
+
+src/ov015/func_ov015_020a8c98.cpp:
+    complete
+    .text       start:0x020a8c98 end:0x020a8c9c
+
+src/ov015/func_ov015_020aa658.cpp:
+    complete
+    .text       start:0x020aa658 end:0x020aa65c
+
+src/ov015/func_ov015_020aa65c.cpp:
+    complete
+    .text       start:0x020aa65c end:0x020aa660
+
+src/ov015/func_ov015_020aa660.cpp:
+    complete
+    .text       start:0x020aa660 end:0x020aa664
+
+src/ov015/func_ov015_020aa664.cpp:
+    complete
+    .text       start:0x020aa664 end:0x020aa668
+
+src/ov015/func_ov015_0209f3c0.cpp:
+    complete
+    .text       start:0x0209f3c0 end:0x0209f3c8
+
+src/ov015/func_ov015_0209f3c8.cpp:
+    complete
+    .text       start:0x0209f3c8 end:0x0209f3d0
+
+src/ov015/func_ov015_0209f3d0.cpp:
+    complete
+    .text       start:0x0209f3d0 end:0x0209f3d8
+
+src/ov015/func_ov015_0209fa34.cpp:
+    complete
+    .text       start:0x0209fa34 end:0x0209fa48
+
+src/ov015/func_ov015_0209fa48.cpp:
+    complete
+    .text       start:0x0209fa48 end:0x0209fa64
+
+src/ov015/func_ov015_0209fa64.cpp:
+    complete
+    .text       start:0x0209fa64 end:0x0209fa78
+
+src/ov015/func_ov015_020a7ed4.cpp:
+    complete
+    .text       start:0x020a7ed4 end:0x020a7edc
+
+src/ov015/func_ov015_020acaf4.cpp:
+    complete
+    .text       start:0x020acaf4 end:0x020acafc
+
+src/ov015/func_ov015_020a4e2c.cpp:
+    complete
+    .text       start:0x020a4e2c end:0x020a4e3c
+
+src/ov015/func_ov015_020aa130.cpp:
+    complete
+    .text       start:0x020aa130 end:0x020aa140
+
+src/ov015/func_ov015_020aa140.cpp:
+    complete
+    .text       start:0x020aa140 end:0x020aa150
+
+src/ov015/func_ov015_020ac8b8.cpp:
+    complete
+    .text       start:0x020ac8b8 end:0x020ac8cc
+
+src/ov015/func_ov015_020ac988.cpp:
+    complete
+    .text       start:0x020ac988 end:0x020ac99c
+
+src/ov015/func_ov015_020a246c.cpp:
+    complete
+    .text       start:0x020a246c end:0x020a247c

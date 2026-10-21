@@ -3,3 +3,83 @@
     .ctor       start:0x02115e48 end:0x02115e48 kind:rodata align:4
     .data       start:0x02115e60 end:0x02116240 kind:data align:32
     .bss        start:0x02116240 end:0x02116260 kind:bss align:32
+
+src/ov007/func_ov007_02113f6c.cpp:
+    complete
+    .text       start:0x02113f6c end:0x02113f70
+
+src/ov007/func_ov007_02115b60.cpp:
+    complete
+    .text       start:0x02115b60 end:0x02115b64
+
+src/ov007/func_ov007_02113ec4.cpp:
+    complete
+    .text       start:0x02113ec4 end:0x02113ed0
+
+src/ov007/func_ov007_02114698.cpp:
+    complete
+    .text       start:0x02114698 end:0x021146a4
+
+src/ov007/func_ov007_0211240c.cpp:
+    complete
+    .text       start:0x0211240c end:0x02112420
+
+src/ov007/func_ov007_02112420.cpp:
+    complete
+    .text       start:0x02112420 end:0x0211243c
+
+src/ov007/func_ov007_02110598.cpp:
+    complete
+    .text       start:0x02110598 end:0x021105ac
+
+src/ov007/func_ov007_02110914.cpp:
+    complete
+    .text       start:0x02110914 end:0x0211091c
+
+src/ov007/func_ov007_0211091c.cpp:
+    complete
+    .text       start:0x0211091c end:0x02110924
+
+src/ov007/func_ov007_02112254.cpp:
+    complete
+    .text       start:0x02112254 end:0x02112268
+
+src/ov007/func_ov007_02112268.cpp:
+    complete
+    .text       start:0x02112268 end:0x02112284
+
+src/ov007/func_ov007_0211257c.cpp:
+    complete
+    .text       start:0x0211257c end:0x02112584
+
+src/ov007/func_ov007_02112e74.cpp:
+    complete
+    .text       start:0x02112e74 end:0x02112e7c
+
+src/ov007/func_ov007_02113f70.cpp:
+    complete
+    .text       start:0x02113f70 end:0x02113f84
+
+src/ov007/func_ov007_02115a64.cpp:
+    complete
+    .text       start:0x02115a64 end:0x02115a6c
+
+src/ov007/func_ov007_02115b20.cpp:
+    complete
+    .text       start:0x02115b20 end:0x02115b28
+
+src/ov007/func_ov007_02115bec.cpp:
+    complete
+    .text       start:0x02115bec end:0x02115bf4
+
+src/ov007/func_ov007_02111590.cpp:
+    complete
+    .text       start:0x02111590 end:0x021115a0
+
+src/ov007/func_ov007_021115a0.cpp:
+    complete
+    .text       start:0x021115a0 end:0x021115b0
+
+src/ov007/func_ov007_02113ed0.cpp:
+    complete
+    .text       start:0x02113ed0 end:0x02113edc

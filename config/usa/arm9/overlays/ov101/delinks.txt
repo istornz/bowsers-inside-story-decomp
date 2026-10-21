@@ -3,3 +3,31 @@
     .init       start:0x020cf1fc end:0x020cf22c kind:code align:4
     .ctor       start:0x020cf22c end:0x020cf230 kind:rodata align:4
     .bss        start:0x020cf240 end:0x020d02e0 kind:bss align:32
+
+src/ov101/func_ov101_020caf20.cpp:
+    complete
+    .text       start:0x020caf20 end:0x020caf34
+
+src/ov101/func_ov101_020cb004.cpp:
+    complete
+    .text       start:0x020cb004 end:0x020cb014
+
+src/ov101/func_ov101_020ccd4c.cpp:
+    complete
+    .text       start:0x020ccd4c end:0x020ccd60
+
+src/ov101/func_ov101_020ccfb0.cpp:
+    complete
+    .text       start:0x020ccfb0 end:0x020ccfc4
+
+src/ov101/func_ov101_020cbd40.cpp:
+    complete
+    .text       start:0x020cbd40 end:0x020cbd60
+
+src/ov101/func_ov101_020cea20.cpp:
+    complete
+    .text       start:0x020cea20 end:0x020cea40
+
+src/ov101/func_ov101_020ce918.cpp:
+    complete
+    .text       start:0x020ce918 end:0x020ce97c

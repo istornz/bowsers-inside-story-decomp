@@ -4,3 +4,82 @@
     .ctor       start:0x020ccdf4 end:0x020ccdf8 kind:rodata align:4
     .data       start:0x020cce00 end:0x020cce40 kind:data align:32
     .bss        start:0x020cce40 end:0x020ccf20 kind:bss align:32
+
+src/ov072/func_ov072_020c96b4.cpp:
+    complete
+    .text       start:0x020c96b4 end:0x020c96b8
+
+src/ov072/func_ov072_020c9e00.cpp:
+    complete
+    .text       start:0x020c9e00 end:0x020c9e0c
+
+src/ov072/func_ov072_020cb170.cpp:
+    complete
+    .text       start:0x020cb170 end:0x020cb190
+
+src/ov072/func_ov072_020cbb0c.cpp:
+    complete
+    .text       start:0x020cbb0c end:0x020cbb2c
+
+src/ov072/func_ov072_020c9ef4.cpp:
+    complete
+    .text       start:0x020c9ef4 end:0x020c9f28
+
+src/ov072/func_ov072_020ca250.cpp:
+    complete
+    .text       start:0x020ca250 end:0x020ca284
+
+src/ov072/func_ov072_020ca67c.cpp:
+    complete
+    .text       start:0x020ca67c end:0x020ca6b0
+
+src/ov072/func_ov072_020cb0c8.cpp:
+    complete
+    .text       start:0x020cb0c8 end:0x020cb0fc
+
+src/ov072/func_ov072_020cb23c.cpp:
+    complete
+    .text       start:0x020cb23c end:0x020cb270
+
+src/ov072/func_ov072_020cb2d0.cpp:
+    complete
+    .text       start:0x020cb2d0 end:0x020cb304
+
+src/ov072/func_ov072_020c9324.cpp:
+    complete
+    .text       start:0x020c9324 end:0x020c9388
+
+src/ov072/func_ov072_020c9648.cpp:
+    complete
+    .text       start:0x020c9648 end:0x020c9674
+
+src/ov072/func_ov072_020c9674.cpp:
+    complete
+    .text       start:0x020c9674 end:0x020c96b4
+
+src/ov072/func_ov072_020cabc8.cpp:
+    complete
+    .text       start:0x020cabc8 end:0x020cabe4
+
+src/ov072/func_ov072_020cc020.cpp:
+    complete
+    .text       start:0x020cc020 end:0x020cc040
+
+src/ov072/func_ov072_020cc73c.cpp:
+    complete
+    .text       start:0x020cc73c end:0x020cc75c
+
+src/ov072/func_ov072_020c90f0.cpp:
+    complete
+    .text       start:0x020c90f0 end:0x020c9160
+
+src/ov072/func_ov072_020c92bc.cpp:
+    complete
+    .text       start:0x020c92bc end:0x020c9324
+
+src/ov072/func_ov072_020c8fe0.cpp:
+    .text       start:0x020c8fe0 end:0x020c9024
+
+src/ov072/func_ov072_020cbcf8.cpp:
+    complete
+    .text       start:0x020cbcf8 end:0x020cbd34

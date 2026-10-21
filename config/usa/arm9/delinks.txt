@@ -6,3 +6,863 @@
     .ctor       start:0x0204ffe8 end:0x0204fff8 kind:rodata align:4
     .data       start:0x02050000 end:0x02055fe0 kind:data align:32
     .bss        start:0x02055fe0 end:0x02063b00 kind:bss align:32
+
+src/main/AutoloadCallback.cpp:
+    complete
+    .text       start:0x02004aac end:0x02004ab0
+
+src/main/func_02004b98.cpp:
+    complete
+    .text       start:0x02004b98 end:0x02004b9c
+
+src/main/func_02005fe0.cpp:
+    complete
+    .text       start:0x02005fe0 end:0x02005fe4
+
+src/main/func_02015ee8.cpp:
+    complete
+    .text       start:0x02015ee8 end:0x02015eec
+
+src/main/func_02015f00.cpp:
+    complete
+    .text       start:0x02015f00 end:0x02015f04
+
+src/main/func_02017610.cpp:
+    complete
+    .text       start:0x02017610 end:0x02017614
+
+src/main/func_020199b0.cpp:
+    complete
+    .text       start:0x020199b0 end:0x020199b4
+
+src/main/func_020199b4.cpp:
+    complete
+    .text       start:0x020199b4 end:0x020199b8
+
+src/main/func_020206c8.cpp:
+    complete
+    .text       start:0x020206c8 end:0x020206cc
+
+src/main/func_020213a8.cpp:
+    complete
+    .text       start:0x020213a8 end:0x020213ac
+
+src/main/func_020224cc.cpp:
+    complete
+    .text       start:0x020224cc end:0x020224d0
+
+src/main/func_020224d8.cpp:
+    complete
+    .text       start:0x020224d8 end:0x020224dc
+
+src/main/func_020224fc.cpp:
+    complete
+    .text       start:0x020224fc end:0x02022500
+
+src/main/func_02023188.cpp:
+    complete
+    .text       start:0x02023188 end:0x0202318c
+
+src/main/func_02025a30.cpp:
+    complete
+    .text       start:0x02025a30 end:0x02025a34
+
+src/main/func_02025f24.cpp:
+    complete
+    .text       start:0x02025f24 end:0x02025f28
+
+src/main/func_02026fc4.cpp:
+    complete
+    .text       start:0x02026fc4 end:0x02026fc8
+
+src/main/func_02027d2c.cpp:
+    complete
+    .text       start:0x02027d2c end:0x02027d30
+
+src/main/func_020296c0.cpp:
+    complete
+    .text       start:0x020296c0 end:0x020296c4
+
+src/main/func_0202ac34.cpp:
+    complete
+    .text       start:0x0202ac34 end:0x0202ac38
+
+src/main/func_0202ac4c.cpp:
+    complete
+    .text       start:0x0202ac4c end:0x0202ac50
+
+src/main/func_0202dfe4.cpp:
+    complete
+    .text       start:0x0202dfe4 end:0x0202dfe8
+
+src/main/func_02033048.cpp:
+    complete
+    .text       start:0x02033048 end:0x0203304c
+
+src/main/func_02033068.cpp:
+    complete
+    .text       start:0x02033068 end:0x0203306c
+
+src/main/func_02035250.cpp:
+    complete
+    .text       start:0x02035250 end:0x02035254
+
+src/main/func_02038050.cpp:
+    complete
+    .text       start:0x02038050 end:0x02038054
+
+src/main/func_02043760.cpp:
+    complete
+    .text       start:0x02043760 end:0x02043764
+
+src/main/func_02045cb8.cpp:
+    complete
+    .text       start:0x02045cb8 end:0x02045cbc
+
+src/main/func_02047534.cpp:
+    complete
+    .text       start:0x02047534 end:0x02047538
+
+src/main/func_020057cc.cpp:
+    complete
+    .text       start:0x020057cc end:0x020057e0
+
+src/main/func_020057e0.cpp:
+    complete
+    .text       start:0x020057e0 end:0x020057fc
+
+src/main/func_0200b8a8.cpp:
+    complete
+    .text       start:0x0200b8a8 end:0x0200b8bc
+
+src/main/func_02015eec.cpp:
+    complete
+    .text       start:0x02015eec end:0x02015f00
+
+src/main/func_02015f04.cpp:
+    complete
+    .text       start:0x02015f04 end:0x02015f0c
+
+src/main/func_02016190.cpp:
+    complete
+    .text       start:0x02016190 end:0x020161a4
+
+src/main/func_020161a4.cpp:
+    complete
+    .text       start:0x020161a4 end:0x020161c0
+
+src/main/func_020161c0.cpp:
+    complete
+    .text       start:0x020161c0 end:0x020161d4
+
+src/main/func_02017600.cpp:
+    complete
+    .text       start:0x02017600 end:0x02017608
+
+src/main/func_02017608.cpp:
+    complete
+    .text       start:0x02017608 end:0x02017610
+
+src/main/func_02019574.cpp:
+    complete
+    .text       start:0x02019574 end:0x0201957c
+
+src/main/func_0201957c.cpp:
+    complete
+    .text       start:0x0201957c end:0x02019584
+
+src/main/func_02019618.cpp:
+    complete
+    .text       start:0x02019618 end:0x02019620
+
+src/main/func_02019620.cpp:
+    complete
+    .text       start:0x02019620 end:0x02019628
+
+src/main/func_020199b8.cpp:
+    complete
+    .text       start:0x020199b8 end:0x020199cc
+
+src/main/func_020199cc.cpp:
+    complete
+    .text       start:0x020199cc end:0x020199e8
+
+src/main/func_020199e8.cpp:
+    complete
+    .text       start:0x020199e8 end:0x020199fc
+
+src/main/func_020199fc.cpp:
+    complete
+    .text       start:0x020199fc end:0x02019a18
+
+src/main/func_0201ada4.cpp:
+    complete
+    .text       start:0x0201ada4 end:0x0201adbc
+
+src/main/func_0201c3a8.cpp:
+    complete
+    .text       start:0x0201c3a8 end:0x0201c3bc
+
+src/main/func_0201c3bc.cpp:
+    complete
+    .text       start:0x0201c3bc end:0x0201c3d8
+
+src/main/func_0201c6bc.cpp:
+    complete
+    .text       start:0x0201c6bc end:0x0201c6d0
+
+src/main/func_0201c6d0.cpp:
+    complete
+    .text       start:0x0201c6d0 end:0x0201c6ec
+
+src/main/func_0201c6ec.cpp:
+    complete
+    .text       start:0x0201c6ec end:0x0201c700
+
+src/main/func_0201e068.cpp:
+    complete
+    .text       start:0x0201e068 end:0x0201e070
+
+src/main/func_020206ac.cpp:
+    complete
+    .text       start:0x020206ac end:0x020206c8
+
+src/main/func_020206cc.cpp:
+    complete
+    .text       start:0x020206cc end:0x020206e0
+
+src/main/func_02020b98.cpp:
+    complete
+    .text       start:0x02020b98 end:0x02020ba0
+
+src/main/func_02020ba0.cpp:
+    complete
+    .text       start:0x02020ba0 end:0x02020ba8
+
+src/main/func_020224bc.cpp:
+    complete
+    .text       start:0x020224bc end:0x020224c4
+
+src/main/func_020224c4.cpp:
+    complete
+    .text       start:0x020224c4 end:0x020224cc
+
+src/main/func_020224d0.cpp:
+    complete
+    .text       start:0x020224d0 end:0x020224d8
+
+src/main/func_020224dc.cpp:
+    complete
+    .text       start:0x020224dc end:0x020224e4
+
+src/main/func_020224e4.cpp:
+    complete
+    .text       start:0x020224e4 end:0x020224ec
+
+src/main/func_020224ec.cpp:
+    complete
+    .text       start:0x020224ec end:0x020224f4
+
+src/main/func_020224f4.cpp:
+    complete
+    .text       start:0x020224f4 end:0x020224fc
+
+src/main/func_020225dc.cpp:
+    complete
+    .text       start:0x020225dc end:0x020225e4
+
+src/main/func_02022b10.cpp:
+    complete
+    .text       start:0x02022b10 end:0x02022b18
+
+src/main/func_02025ecc.cpp:
+    complete
+    .text       start:0x02025ecc end:0x02025ed4
+
+src/main/func_020273f8.cpp:
+    complete
+    .text       start:0x020273f8 end:0x02027400
+
+src/main/func_02027b54.cpp:
+    complete
+    .text       start:0x02027b54 end:0x02027b5c
+
+src/main/func_02027c34.cpp:
+    complete
+    .text       start:0x02027c34 end:0x02027c3c
+
+src/main/func_020296ac.cpp:
+    complete
+    .text       start:0x020296ac end:0x020296c0
+
+src/main/func_0202ab84.cpp:
+    complete
+    .text       start:0x0202ab84 end:0x0202ab98
+
+src/main/func_0202ac38.cpp:
+    complete
+    .text       start:0x0202ac38 end:0x0202ac4c
+
+src/main/func_0202b168.cpp:
+    complete
+    .text       start:0x0202b168 end:0x0202b170
+
+src/main/func_0202bab0.cpp:
+    complete
+    .text       start:0x0202bab0 end:0x0202bab8
+
+src/main/func_0202bab8.cpp:
+    complete
+    .text       start:0x0202bab8 end:0x0202bac0
+
+src/main/func_0202bc5c.cpp:
+    complete
+    .text       start:0x0202bc5c end:0x0202bc64
+
+src/main/func_0202d084.cpp:
+    complete
+    .text       start:0x0202d084 end:0x0202d08c
+
+src/main/func_0202e0c8.cpp:
+    complete
+    .text       start:0x0202e0c8 end:0x0202e0d0
+
+src/main/func_0202e8a8.cpp:
+    complete
+    .text       start:0x0202e8a8 end:0x0202e8b0
+
+src/main/func_0202e8fc.cpp:
+    complete
+    .text       start:0x0202e8fc end:0x0202e910
+
+src/main/func_0202e910.cpp:
+    complete
+    .text       start:0x0202e910 end:0x0202e92c
+
+src/main/func_0202f388.cpp:
+    complete
+    .text       start:0x0202f388 end:0x0202f398
+
+src/main/func_02038700.cpp:
+    complete
+    .text       start:0x02038700 end:0x02038708
+
+src/main/func_02039030.cpp:
+    complete
+    .text       start:0x02039030 end:0x02039038
+
+src/main/func_0203914c.cpp:
+    complete
+    .text       start:0x0203914c end:0x02039154
+
+src/main/func_0203bffc.cpp:
+    complete
+    .text       start:0x0203bffc end:0x0203c004
+
+src/main/func_0203cf14.cpp:
+    complete
+    .text       start:0x0203cf14 end:0x0203cf1c
+
+src/main/func_0203de48.cpp:
+    complete
+    .text       start:0x0203de48 end:0x0203de50
+
+src/main/func_0203debc.cpp:
+    complete
+    .text       start:0x0203debc end:0x0203dec4
+
+src/main/func_0203dec4.cpp:
+    complete
+    .text       start:0x0203dec4 end:0x0203decc
+
+src/main/FS_StopOverlay.cpp:
+    complete
+    .text       start:0x0203e630 end:0x0203e640
+
+src/main/func_02045d78.cpp:
+    complete
+    .text       start:0x02045d78 end:0x02045d80
+
+src/main/func_02047538.cpp:
+    complete
+    .text       start:0x02047538 end:0x0204754c
+
+src/main/func_0204754c.cpp:
+    complete
+    .text       start:0x0204754c end:0x02047568
+
+src/main/func_02047568.cpp:
+    complete
+    .text       start:0x02047568 end:0x0204757c
+
+src/main/func_0204757c.cpp:
+    complete
+    .text       start:0x0204757c end:0x02047590
+
+src/main/func_02047590.cpp:
+    complete
+    .text       start:0x02047590 end:0x020475ac
+
+src/main/func_020475ac.cpp:
+    complete
+    .text       start:0x020475ac end:0x020475c0
+
+src/main/func_020475c0.cpp:
+    complete
+    .text       start:0x020475c0 end:0x020475dc
+
+src/main/func_02006388.cpp:
+    complete
+    .text       start:0x02006388 end:0x02006398
+
+src/main/func_02007158.cpp:
+    complete
+    .text       start:0x02007158 end:0x02007164
+
+src/main/func_0200afc8.cpp:
+    complete
+    .text       start:0x0200afc8 end:0x0200afd8
+
+src/main/func_0200afd8.cpp:
+    complete
+    .text       start:0x0200afd8 end:0x0200afe8
+
+src/main/func_02014fe0.cpp:
+    complete
+    .text       start:0x02014fe0 end:0x02014ff0
+
+src/main/func_02014ff0.cpp:
+    complete
+    .text       start:0x02014ff0 end:0x02015000
+
+src/main/func_02017b50.cpp:
+    complete
+    .text       start:0x02017b50 end:0x02017b60
+
+src/main/func_02019a18.cpp:
+    complete
+    .text       start:0x02019a18 end:0x02019a2c
+
+src/main/func_0201a168.cpp:
+    complete
+    .text       start:0x0201a168 end:0x0201a174
+
+src/main/func_0201a174.cpp:
+    complete
+    .text       start:0x0201a174 end:0x0201a180
+
+src/main/func_0201f5ac.cpp:
+    complete
+    .text       start:0x0201f5ac end:0x0201f5cc
+
+src/main/func_0201f5cc.cpp:
+    complete
+    .text       start:0x0201f5cc end:0x0201f5f4
+
+src/main/func_0201f5f4.cpp:
+    complete
+    .text       start:0x0201f5f4 end:0x0201f614
+
+src/main/func_0201fe7c.cpp:
+    complete
+    .text       start:0x0201fe7c end:0x0201fe9c
+
+src/main/func_0201fe9c.cpp:
+    complete
+    .text       start:0x0201fe9c end:0x0201fec4
+
+src/main/func_020202b8.cpp:
+    complete
+    .text       start:0x020202b8 end:0x020202d8
+
+src/main/func_020202d8.cpp:
+    complete
+    .text       start:0x020202d8 end:0x02020300
+
+src/main/func_02020300.cpp:
+    complete
+    .text       start:0x02020300 end:0x02020320
+
+src/main/func_02022034.cpp:
+    complete
+    .text       start:0x02022034 end:0x02022054
+
+src/main/func_02022054.cpp:
+    complete
+    .text       start:0x02022054 end:0x0202207c
+
+src/main/func_02025870.cpp:
+    complete
+    .text       start:0x02025870 end:0x02025880
+
+src/main/func_02025880.cpp:
+    complete
+    .text       start:0x02025880 end:0x02025890
+
+src/main/func_0202ed9c.cpp:
+    complete
+    .text       start:0x0202ed9c end:0x0202eda8
+
+src/main/func_0202ef60.cpp:
+    complete
+    .text       start:0x0202ef60 end:0x0202ef6c
+
+src/main/func_0202efa4.cpp:
+    complete
+    .text       start:0x0202efa4 end:0x0202efb0
+
+src/main/func_0202f194.cpp:
+    complete
+    .text       start:0x0202f194 end:0x0202f1a4
+
+src/main/func_0202f1a4.cpp:
+    complete
+    .text       start:0x0202f1a4 end:0x0202f1b4
+
+src/main/func_0202f1b4.cpp:
+    complete
+    .text       start:0x0202f1b4 end:0x0202f1c0
+
+src/main/func_0202f648.cpp:
+    complete
+    .text       start:0x0202f648 end:0x0202f654
+
+src/main/func_0202fed0.cpp:
+    complete
+    .text       start:0x0202fed0 end:0x0202fee0
+
+src/main/func_02030530.cpp:
+    complete
+    .text       start:0x02030530 end:0x02030540
+
+src/main/func_02030ccc.cpp:
+    complete
+    .text       start:0x02030ccc end:0x02030cdc
+
+src/main/func_02031be4.cpp:
+    complete
+    .text       start:0x02031be4 end:0x02031bf0
+
+src/main/func_02032fc8.cpp:
+    complete
+    .text       start:0x02032fc8 end:0x02032fd8
+
+src/main/func_02033010.cpp:
+    complete
+    .text       start:0x02033010 end:0x02033020
+
+src/main/func_020348fc.cpp:
+    complete
+    .text       start:0x020348fc end:0x0203490c
+
+src/main/func_0203490c.cpp:
+    complete
+    .text       start:0x0203490c end:0x0203491c
+
+src/main/func_02036140.cpp:
+    complete
+    .text       start:0x02036140 end:0x02036154
+
+src/main/func_02036154.cpp:
+    complete
+    .text       start:0x02036154 end:0x02036168
+
+src/main/func_020361b0.cpp:
+    complete
+    .text       start:0x020361b0 end:0x020361c4
+
+src/main/func_020361c4.cpp:
+    complete
+    .text       start:0x020361c4 end:0x020361d8
+
+src/main/func_020361d8.cpp:
+    complete
+    .text       start:0x020361d8 end:0x020361ec
+
+src/main/func_020361ec.cpp:
+    complete
+    .text       start:0x020361ec end:0x02036200
+
+src/main/func_02036330.cpp:
+    complete
+    .text       start:0x02036330 end:0x02036344
+
+src/main/func_02036344.cpp:
+    complete
+    .text       start:0x02036344 end:0x02036358
+
+src/main/func_020363a0.cpp:
+    complete
+    .text       start:0x020363a0 end:0x020363b4
+
+src/main/func_020363b4.cpp:
+    complete
+    .text       start:0x020363b4 end:0x020363c8
+
+src/main/func_020363c8.cpp:
+    complete
+    .text       start:0x020363c8 end:0x020363dc
+
+src/main/func_020363dc.cpp:
+    complete
+    .text       start:0x020363dc end:0x020363f0
+
+src/main/func_020363f0.cpp:
+    complete
+    .text       start:0x020363f0 end:0x02036404
+
+src/main/func_02036454.cpp:
+    complete
+    .text       start:0x02036454 end:0x02036464
+
+src/main/func_02036464.cpp:
+    complete
+    .text       start:0x02036464 end:0x02036474
+
+src/main/func_02036474.cpp:
+    complete
+    .text       start:0x02036474 end:0x02036484
+
+src/main/func_02036484.cpp:
+    complete
+    .text       start:0x02036484 end:0x02036494
+
+src/main/func_02036494.cpp:
+    complete
+    .text       start:0x02036494 end:0x020364a4
+
+src/main/func_020364a4.cpp:
+    complete
+    .text       start:0x020364a4 end:0x020364b4
+
+src/main/func_020380dc.cpp:
+    complete
+    .text       start:0x020380dc end:0x020380ec
+
+src/main/func_020380ec.cpp:
+    complete
+    .text       start:0x020380ec end:0x020380fc
+
+src/main/func_020380fc.cpp:
+    complete
+    .text       start:0x020380fc end:0x0203810c
+
+src/main/func_0203810c.cpp:
+    complete
+    .text       start:0x0203810c end:0x0203811c
+
+src/main/func_0203811c.cpp:
+    complete
+    .text       start:0x0203811c end:0x0203812c
+
+src/main/func_0203812c.cpp:
+    complete
+    .text       start:0x0203812c end:0x0203813c
+
+src/main/func_0203813c.cpp:
+    complete
+    .text       start:0x0203813c end:0x0203814c
+
+src/main/func_0203814c.cpp:
+    complete
+    .text       start:0x0203814c end:0x0203815c
+
+src/main/func_02039888.cpp:
+    complete
+    .text       start:0x02039888 end:0x0203989c
+
+src/main/func_02039b9c.cpp:
+    complete
+    .text       start:0x02039b9c end:0x02039bac
+
+src/main/func_0203b144.cpp:
+    complete
+    .text       start:0x0203b144 end:0x0203b158
+
+src/main/func_0203b158.cpp:
+    complete
+    .text       start:0x0203b158 end:0x0203b16c
+
+src/main/func_0203c074.cpp:
+    complete
+    .text       start:0x0203c074 end:0x0203c080
+
+src/main/func_0204158c.cpp:
+    complete
+    .text       start:0x0204158c end:0x0204159c
+
+src/main/func_0204159c.cpp:
+    complete
+    .text       start:0x0204159c end:0x020415ac
+
+src/main/func_020418ec.cpp:
+    complete
+    .text       start:0x020418ec end:0x020418fc
+
+src/main/func_020419f4.cpp:
+    complete
+    .text       start:0x020419f4 end:0x02041a04
+
+src/main/func_020421e8.cpp:
+    complete
+    .text       start:0x020421e8 end:0x020421f4
+
+src/main/func_020421f4.cpp:
+    complete
+    .text       start:0x020421f4 end:0x02042200
+
+src/main/func_020428dc.cpp:
+    complete
+    .text       start:0x020428dc end:0x020428e8
+
+src/main/func_02042b4c.cpp:
+    complete
+    .text       start:0x02042b4c end:0x02042b5c
+
+src/main/func_020432f4.cpp:
+    complete
+    .text       start:0x020432f4 end:0x02043308
+
+src/main/func_020475dc.cpp:
+    complete
+    .text       start:0x020475dc end:0x020475e8
+
+src/main/func_020475e8.cpp:
+    complete
+    .text       start:0x020475e8 end:0x020475f4
+
+src/main/func_020479a4.cpp:
+    complete
+    .text       start:0x020479a4 end:0x020479b0
+
+src/main/func_02021e60.cpp:
+    complete
+    .text       start:0x02021e60 end:0x02021e88
+
+src/main/func_02020b68.cpp:
+    complete
+    .text       start:0x02020b68 end:0x02020b98
+
+src/main/func_020228a0.cpp:
+    complete
+    .text       start:0x020228a0 end:0x020228d0
+
+src/main/func_020255dc.cpp:
+    complete
+    .text       start:0x020255dc end:0x0202560c
+
+src/main/func_02026a8c.cpp:
+    complete
+    .text       start:0x02026a8c end:0x02026abc
+
+src/main/func_02027adc.cpp:
+    complete
+    .text       start:0x02027adc end:0x02027b0c
+
+src/main/func_02028768.cpp:
+    complete
+    .text       start:0x02028768 end:0x02028798
+
+src/main/func_020228d0.cpp:
+    complete
+    .text       start:0x020228d0 end:0x020228f8
+
+src/main/func_0202560c.cpp:
+    complete
+    .text       start:0x0202560c end:0x02025634
+
+src/main/func_02026abc.cpp:
+    complete
+    .text       start:0x02026abc end:0x02026ae4
+
+src/main/func_02027b0c.cpp:
+    complete
+    .text       start:0x02027b0c end:0x02027b34
+
+src/main/func_02028798.cpp:
+    complete
+    .text       start:0x02028798 end:0x020287c0
+
+src/main/func_02022918.cpp:
+    complete
+    .text       start:0x02022918 end:0x02022920
+
+src/main/func_02025a64.cpp:
+    complete
+    .text       start:0x02025a64 end:0x02025a8c
+
+src/main/func_02022920.cpp:
+    complete
+    .text       start:0x02022920 end:0x02022928
+
+src/main/func_02025dac.cpp:
+    complete
+    .text       start:0x02025dac end:0x02025db4
+
+src/main/func_02025db4.cpp:
+    complete
+    .text       start:0x02025db4 end:0x02025dbc
+
+src/main/func_02025abc.cpp:
+    complete
+    .text       start:0x02025abc end:0x02025ae4
+
+src/main/func_02026ff8.cpp:
+    complete
+    .text       start:0x02026ff8 end:0x02027020
+
+src/main/func_02027050.cpp:
+    complete
+    .text       start:0x02027050 end:0x02027078
+
+src/main/func_02025a34.cpp:
+    complete
+    .text       start:0x02025a34 end:0x02025a64
+
+src/main/func_02025b74.cpp:
+    complete
+    .text       start:0x02025b74 end:0x02025ba4
+
+src/main/func_02025b3c.cpp:
+    complete
+    .text       start:0x02025b3c end:0x02025b74
+
+src/main/func_02025a8c.cpp:
+    complete
+    .text       start:0x02025a8c end:0x02025abc
+
+src/main/func_02026fc8.cpp:
+    complete
+    .text       start:0x02026fc8 end:0x02026ff8
+
+src/main/func_02027020.cpp:
+    complete
+    .text       start:0x02027020 end:0x02027050
+
+src/main/func_020270d0.cpp:
+    complete
+    .text       start:0x020270d0 end:0x02027108
+
+src/main/func_02027108.cpp:
+    complete
+    .text       start:0x02027108 end:0x02027138
+
+src/main/func_02015000.cpp:
+    complete
+    .text       start:0x02015000 end:0x0201500c
+
+src/main/func_02020744.cpp:
+    complete
+    .text       start:0x02020744 end:0x02020754
+
+src/main/func_0201500c.cpp:
+    complete
+    .text       start:0x0201500c end:0x02015018
+
+src/main/func_02020774.cpp:
+    complete
+    .text       start:0x02020774 end:0x02020784
+
+src/main/func_02020930.cpp:
+    complete
+    .text       start:0x02020930 end:0x02020940

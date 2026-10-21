@@ -7,3 +7,7 @@
 src/ov086/func_ov086_020c9be0.cpp:
     complete
     .text       start:0x020c9be0 end:0x020c9c30
+
+src/ov086/func_ov086_020c9008.cpp:
+    complete
+    .text       start:0x020c9008 end:0x020c9030

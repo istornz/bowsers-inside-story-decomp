@@ -2,3 +2,23 @@
     .ctor       start:0x020cd668 end:0x020cd668 kind:rodata align:4
     .data       start:0x020cd680 end:0x020cd720 kind:data align:32
     .bss        start:0x020cd720 end:0x020cd740 kind:bss align:32
+
+src/ov044/func_ov044_020cb440.cpp:
+    complete
+    .text       start:0x020cb440 end:0x020cb454
+
+src/ov044/func_ov044_020cb464.cpp:
+    complete
+    .text       start:0x020cb464 end:0x020cb478
+
+src/ov044/func_ov044_020cb454.cpp:
+    complete
+    .text       start:0x020cb454 end:0x020cb464
+
+src/ov044/func_ov044_020cb478.cpp:
+    complete
+    .text       start:0x020cb478 end:0x020cb488
+
+src/ov044/func_ov044_020cb488.cpp:
+    complete
+    .text       start:0x020cb488 end:0x020cb498
